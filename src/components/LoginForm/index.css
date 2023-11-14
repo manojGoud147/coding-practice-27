@@ -1,0 +1,17 @@
+.website-login {
+  width: 300px;
+}
+.website-logo {
+  width: 100px;
+}
+.login-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
